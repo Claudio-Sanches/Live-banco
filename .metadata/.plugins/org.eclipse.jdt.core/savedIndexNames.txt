@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Projetos - Santander Dio\Live banco\.metadata\.plugins\org.eclipse.jdt.core
+1474407791.index
+2127890174.index
